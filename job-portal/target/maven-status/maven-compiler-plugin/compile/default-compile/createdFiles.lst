@@ -1,0 +1,9 @@
+com\example\demo\Webconfig.class
+com\example\demo\jobsRepository.class
+com\example\demo\jobs.class
+com\example\demo\AppController.class
+com\example\demo\CustomUserDetailsService.class
+com\example\demo\JobPortalApplication.class
+com\example\demo\UserRepository.class
+com\example\demo\User.class
+com\example\demo\CustomUserDetails.class
